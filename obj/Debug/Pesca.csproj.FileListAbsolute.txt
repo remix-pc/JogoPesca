@@ -1,0 +1,31 @@
+C:\Users\Remix\Desktop\SENAI\PWBE\Pesca\Pesca\bin\Debug\Pesca.exe.config
+C:\Users\Remix\Desktop\SENAI\PWBE\Pesca\Pesca\bin\Debug\Pesca.exe
+C:\Users\Remix\Desktop\SENAI\PWBE\Pesca\Pesca\bin\Debug\Pesca.pdb
+C:\Users\Remix\Desktop\SENAI\PWBE\Pesca\Pesca\obj\Debug\Pesca.csproj.AssemblyReference.cache
+C:\Users\Remix\Desktop\SENAI\PWBE\Pesca\Pesca\obj\Debug\Pesca.csproj.SuggestedBindingRedirects.cache
+C:\Users\Remix\Desktop\SENAI\PWBE\Pesca\Pesca\obj\Debug\Pesca.csproj.CoreCompileInputs.cache
+C:\Users\Remix\Desktop\SENAI\PWBE\Pesca\Pesca\obj\Debug\Pesca.exe
+C:\Users\Remix\Desktop\SENAI\PWBE\Pesca\Pesca\obj\Debug\Pesca.pdb
+C:\Users\aluno\Downloads\Pesca -- outro\Pesca\bin\Debug\Pesca.exe.config
+C:\Users\aluno\Downloads\Pesca -- outro\Pesca\bin\Debug\Pesca.exe
+C:\Users\aluno\Downloads\Pesca -- outro\Pesca\bin\Debug\Pesca.pdb
+C:\Users\aluno\Downloads\Pesca -- outro\Pesca\obj\Debug\Pesca.csprojAssemblyReference.cache
+C:\Users\aluno\Downloads\Pesca -- outro\Pesca\obj\Debug\Pesca.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\Pesca -- outro\Pesca\obj\Debug\Pesca.exe
+C:\Users\aluno\Downloads\Pesca -- outro\Pesca\obj\Debug\Pesca.pdb
+C:\Users\Remix\Downloads\Pesca -- outro\Pesca\bin\Debug\Pesca.exe.config
+C:\Users\Remix\Downloads\Pesca -- outro\Pesca\bin\Debug\Pesca.exe
+C:\Users\Remix\Downloads\Pesca -- outro\Pesca\bin\Debug\Pesca.pdb
+C:\Users\Remix\Downloads\Pesca -- outro\Pesca\obj\Debug\Pesca.csproj.AssemblyReference.cache
+C:\Users\Remix\Downloads\Pesca -- outro\Pesca\obj\Debug\Pesca.csproj.SuggestedBindingRedirects.cache
+C:\Users\Remix\Downloads\Pesca -- outro\Pesca\obj\Debug\Pesca.csproj.CoreCompileInputs.cache
+C:\Users\Remix\Downloads\Pesca -- outro\Pesca\obj\Debug\Pesca.exe
+C:\Users\Remix\Downloads\Pesca -- outro\Pesca\obj\Debug\Pesca.pdb
+C:\Users\Remix\Downloads\Pescaria\Pesca\bin\Debug\Pesca.exe.config
+C:\Users\Remix\Downloads\Pescaria\Pesca\bin\Debug\Pesca.exe
+C:\Users\Remix\Downloads\Pescaria\Pesca\bin\Debug\Pesca.pdb
+C:\Users\Remix\Downloads\Pescaria\Pesca\obj\Debug\Pesca.csproj.AssemblyReference.cache
+C:\Users\Remix\Downloads\Pescaria\Pesca\obj\Debug\Pesca.csproj.SuggestedBindingRedirects.cache
+C:\Users\Remix\Downloads\Pescaria\Pesca\obj\Debug\Pesca.csproj.CoreCompileInputs.cache
+C:\Users\Remix\Downloads\Pescaria\Pesca\obj\Debug\Pesca.exe
+C:\Users\Remix\Downloads\Pescaria\Pesca\obj\Debug\Pesca.pdb
